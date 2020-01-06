@@ -66,7 +66,7 @@ namespace MovieListCreator {
         readFolder(sDirNow, movieListXml);
       }
 
-      // Remove any template category elements with 0 movies
+      // Remove any template category elements with 0 movies...
       foreach (XmlNode ndEmpty in movieListXml.SelectNodes("//category[@count=\"0\"]")) {
         ndEmpty.ParentNode.RemoveChild(ndEmpty);
       }
