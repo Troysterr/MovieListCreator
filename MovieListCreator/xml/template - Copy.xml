@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="movielist.xslt"?>
+<categorylist count="0">
+  <category name="Animated Films" count="0" alias="Animated" ordinal="2"/>
+  <category name="Classics: 30s-50s" count="0" alias="1930s-1950s" ordinal="6" />
+  <category name="Classics: 60s-70s" count="0" alias="1960s-1970s" ordinal="5" />
+  <category name="Classics: 80s-90s" count="0" alias="1980s-1990s" ordinal="4" />
+  <category name="Classics: 2000+" count="0" alias="2000s-2010s" ordinal="3" />
+  <category name="Recent Releases" count="0" alias="Popular" ordinal="1" />
+  <category name="Home Test Movies" count="0" alias="Videos" ordinal="1" />
+</categorylist>
